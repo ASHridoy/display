@@ -48,9 +48,9 @@ img{
 	position: relative;
 }
 .header1 .social ul li > img{
-	position: absolute;
-    height: 24px;
-    top: 20px;
+    position: absolute;
+    height: 39%;
+    top: 23px;
     left: 14px;
 }
 .header1 .social ul li a{
